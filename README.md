@@ -1,1 +1,1 @@
-本项目用于根据关键词收集微博数据，research data文件夹中存放本次实验所采集的新冠肺炎疫情微博舆情数据及以及对其进行主题建模和情感分析后的结果。
+This project is used to collect Weibo data based on keywords. The research data folder stores the Weibo public opinion data of the COVID-19 epidemic collected in this experiment and the results of topic modeling and sentiment analysis.
